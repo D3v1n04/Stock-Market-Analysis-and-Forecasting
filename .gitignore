@@ -1,0 +1,12 @@
+# Local credentials
+.env
+
+# Python environments
+.venv/
+.venv_old/
+
+# Generated files
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
