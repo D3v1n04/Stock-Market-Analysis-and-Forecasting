@@ -1,0 +1,12 @@
+{
+  "tickers": [
+    "AMZN", "MSFT", "NVDA", "AMD", "GOOGL",
+    "META", "TSM", "MU", "ORCL", "AVGO",
+    "SPY", "XLK", "SMH", "XLY", "XLC"
+  ],
+  "start_date": "2020-01-01",
+  "end_date": "2026-09-30",
+  "timeframe": "1Day",
+  "feed": "sip",
+  "adjustments": ["raw", "split", "split,dividend"]
+}
